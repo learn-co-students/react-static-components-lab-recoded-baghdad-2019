@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "- Practice rendering static children components\r - Have some fun with the rendered components in the browser",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemursa/react-static-components-lab-recoded-baghdad-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leemursa/react-static-components-lab-recoded-baghdad-2019/issues"
+  },
+  "homepage": "https://github.com/leemursa/react-static-components-lab-recoded-baghdad-2019#readme"
 }
