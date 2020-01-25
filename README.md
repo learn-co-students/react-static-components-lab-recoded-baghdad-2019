@@ -11,8 +11,12 @@ In this lab, we will be rendering a few children components in our top-most
 component: `App`. All of our work will be done in `src/App.js`, the rest of the
 components/source files shouldn't need any alterations.
 
-Begin with `npm install`. Examine what is rendering in the browser
+Begin with `npm install`ing and examining what we have rendering in the browser
+<<<<<<< HEAD
 with `npm start`. You should see an error we need to fix!
+=======
+with `npm start`. You should see an error we need to fix! 
+>>>>>>> updated that students should expect an error
 
 Once we properly render the other three components: `CatComponent`,
 `EinsteinQuoteComponent`, and `MouseComponent` in `App`, we will have the flag of
